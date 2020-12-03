@@ -4,7 +4,7 @@
 	"description" : "Guzzle http client implementation for Convoworks",
 	"homepage" : "https://github.com/zef-dev/convoworks-guzzle",
 	"keywords" : [
-		"convoworks"
+		"convoworks", "guzzle"
 	],
 	"license" : "MIT",
 	"require" : {
