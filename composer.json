@@ -1,0 +1,29 @@
+{
+	"name" : "zef-dev/convoworks-guzzle",
+	"type" : "library",
+	"description" : "Guzzle http client implementation for Convoworks",
+	"homepage" : "https://github.com/zef-dev/convoworks-guzzle",
+	"keywords" : [
+		"convoworks"
+	],
+	"license" : "MIT",
+	"require" : {
+		"php" : "^7.2",
+        "psr/http-client" : "^1.0.0",
+        "psr/http-message" : "^1.0.1",
+		"guzzlehttp/guzzle" : "~6.0",
+		"guzzlehttp/psr7" : "^1.6"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Convo\\Guzzle\\" : "src/Convo/Guzzle"
+		}
+	},
+	"config" : {
+		"platform" : {
+			"php" : "7.2"
+		},
+		"sort-packages" : true
+	},
+	"minimum-stability" : "beta"
+}

@@ -1,2 +1,2 @@
-# convoworks-guzzle
-Guzzle http client implementation for Convoworks
+# Guzzle based http factory for Convoworks
+
