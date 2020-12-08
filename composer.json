@@ -15,7 +15,7 @@
 		"guzzlehttp/guzzle" : "~6.0",
 		"guzzlehttp/psr7" : "^1.6",
 		"http-interop/http-factory-guzzle" : "^1.0",
-        "zef-dev/convoworks-core" : "^1.0.0"
+        "zef-dev/convoworks-core" : "^0.18"
 	},
 	"autoload" : {
 		"psr-4" : {
