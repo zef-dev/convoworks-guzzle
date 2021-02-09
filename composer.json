@@ -7,7 +7,7 @@
 		"convoworks", "guzzle"
 	],
 	"license" : "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
 	"require" : {
 		"php" : "^7.2",
 		"psr/log" : "^1.1.0",
@@ -16,7 +16,7 @@
 		"guzzlehttp/guzzle" : "~6.0",
 		"guzzlehttp/psr7" : "^1.6",
 		"http-interop/http-factory-guzzle" : "^1.0",
-        "zef-dev/convoworks-core" : "^0.18"
+        "zef-dev/convoworks-core" : "^0.19"
 	},
 	"autoload" : {
 		"psr-4" : {
