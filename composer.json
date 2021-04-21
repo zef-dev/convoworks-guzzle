@@ -13,10 +13,10 @@
 		"psr/log" : "^1.1.0",
         "psr/http-client" : "^1.0.0",
         "psr/http-message" : "^1.0.1",
-		"guzzlehttp/guzzle" : "~6.0",
+		"guzzlehttp/guzzle" : "~7.0",
 		"guzzlehttp/psr7" : "^1.6",
 		"http-interop/http-factory-guzzle" : "^1.0",
-        "zef-dev/convoworks-core" : "^0.20"
+        "zef-dev/convoworks-core" : "^0.21"
 	},
 	"autoload" : {
 		"psr-4" : {
