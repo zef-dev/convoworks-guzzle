@@ -51,7 +51,7 @@ class GuzzleHttpFactory implements IHttpFactory
             }
         }
 
-        if ($method === self::METHOD_POST || $method === self::METHOD_PUT) {
+        if ($method === self::METHOD_POST || $method === self::METHOD_PUT || self::METHOD_PATCH) {
             if (is_array($body)) {
                 $encoded = json_encode($body);
 
