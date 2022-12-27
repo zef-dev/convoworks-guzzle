@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.0 - 2022-12-27
+
+* Add support for PATCH calls too
+
 ## 1.1.0 - 2021-05-14
 
 * use guzzle 7
